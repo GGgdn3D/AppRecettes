@@ -3,7 +3,7 @@ Simple App to look for recipes
 
 ## Running the Script Locally
 
-To run the `food5.py` script locally, follow these steps:
+To run the `food5.py` script locally, follow these steps: First download and navigate to the unziped Folder of this repo then
 
 1.  **Create a Python virtual environment:**
     Open your terminal or command prompt in the project's root directory and run:
